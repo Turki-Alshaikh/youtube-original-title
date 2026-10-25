@@ -73,7 +73,7 @@ git clone [https://github.com/Turki-Alshaikh/youtube-original-title.git](https:/
 
 ## 👨‍💻 Author / المطور
 
-**Turki Alshaikh (تركي آل الشيخ)**
+**Turki Alshaikh (تركي الشيخ)**
 
 * 💼 **LinkedIn:** [Turki Alshaikh](https://linkedin.com/in/Turki--Alshaikh)
 
